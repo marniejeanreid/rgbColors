@@ -12,6 +12,7 @@ struct ContentView: View {
         ZStack {
             VStack {
                 Color(red: 0.2 , green: 0.66 , blue: 0.32)
+                //marnie
                 Image(systemName: "globe")
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
